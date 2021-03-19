@@ -33,7 +33,7 @@ public class Empregado{
     this.idade = idade;
     }
 
-//adicionar à classe Empregado.java
+//adicionar à classe Empregado.java teste teste
 public void setSalario (double salario){
     this.salario = salario;
     }
