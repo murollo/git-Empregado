@@ -12,3 +12,11 @@ e3.setTipo(3);
 e1.setSalario(2000);
 e2.setSalario(1700);
 e2.setComissao (0.2);//20% de comissão sobre o salário
+e3.setSalario(1500);
+e3.setBonus(400);
+//mostra os valores
+System.out.println (e1.calculaSalario());
+System.out.println (e2.calculaSalario());
+System.out.println (e3.calculaSalario());
+}
+}
